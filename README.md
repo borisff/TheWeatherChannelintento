@@ -1,6 +1,6 @@
 # TheWeatherChannel
 **Pagina** 
-[The Weather Channel](https://weather.com/es-CL/tiempo/mensual/l/cb0b09b804fbcfb93b3485607c771c23607ce00484606431defb3c0cd10efb79)
+[TheWeatherChannel](https://weather.com/es-CL/tiempo/mensual/l/cb0b09b804fbcfb93b3485607c771c23607ce00484606431defb3c0cd10efb79)
 
 **Descripción** 
 Esta página se encarga de subir información meteorológica, tanto de los días anteriores como la predicción climática de los próximos  días, de distintos puntos geográficos. 
